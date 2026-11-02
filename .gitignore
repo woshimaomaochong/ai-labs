@@ -1,0 +1,15 @@
+# 实验产物不进仓库
+raw.jsonl
+judge.jsonl
+pages/
+out*/
+rec/
+raw/
+*.wav
+*.mp3
+*.mp4
+*.png
+__pycache__/
+node_modules/
+SKILL.md
+*_SKILL.md

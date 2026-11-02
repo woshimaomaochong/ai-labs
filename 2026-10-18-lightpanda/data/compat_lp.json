@@ -1,0 +1,151 @@
+[
+ {
+  "engine": "lp",
+  "name": "百度",
+  "url": "https://www.baidu.com",
+  "loadMs": 8614,
+  "title": "百度一下",
+  "textLen": 95,
+  "links": 11,
+  "nodes": 225,
+  "shot": "ok"
+ },
+ {
+  "engine": "lp",
+  "name": "B站",
+  "url": "https://www.bilibili.com",
+  "loadMs": 6132,
+  "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+  "textLen": 1162,
+  "links": 151,
+  "nodes": 1527,
+  "shot": "ok"
+ },
+ {
+  "engine": "lp",
+  "name": "京东",
+  "url": "https://www.jd.com",
+  "loadMs": 7082,
+  "title": "京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！",
+  "textLen": 2184,
+  "links": 428,
+  "nodes": 1866,
+  "shot": "ok"
+ },
+ {
+  "engine": "lp",
+  "name": "淘宝",
+  "url": "https://www.taobao.com",
+  "loadMs": 4404,
+  "title": "淘宝",
+  "textLen": 8354,
+  "links": 1917,
+  "nodes": 4110,
+  "shot": "ok"
+ },
+ {
+  "engine": "lp",
+  "name": "豆瓣",
+  "url": "https://www.douban.com",
+  "loadMs": 1183,
+  "title": "豆瓣",
+  "textLen": 3358,
+  "links": 427,
+  "nodes": 1311,
+  "shot": "ok"
+ },
+ {
+  "engine": "lp",
+  "name": "IT之家",
+  "url": "https://www.ithome.com",
+  "loadMs": 7598,
+  "title": "IT之家",
+  "textLen": 23073,
+  "links": 713,
+  "nodes": 2126,
+  "shot": "ok"
+ },
+ {
+  "engine": "lp",
+  "name": "少数派",
+  "url": "https://sspai.com",
+  "loadMs": 6504,
+  "title": "少数派 - 高效工作，品质生活",
+  "textLen": 1617,
+  "links": 104,
+  "nodes": 910,
+  "shot": "ok"
+ },
+ {
+  "engine": "lp",
+  "name": "36氪",
+  "url": "https://www.36kr.com",
+  "loadMs": 316,
+  "title": "36氪_让一部分人先看到未来",
+  "textLen": 4871,
+  "links": 381,
+  "nodes": 1498,
+  "shot": "ok"
+ },
+ {
+  "engine": "lp",
+  "name": "掘金",
+  "url": "https://juejin.cn",
+  "loadMs": 2981,
+  "title": "稀土掘金",
+  "textLen": 3211,
+  "links": 152,
+  "nodes": 1390,
+  "shot": "ok"
+ },
+ {
+  "engine": "lp",
+  "name": "GitHub 仓库页",
+  "url": "https://github.com/lightpanda-io/browser",
+  "error": "Navigation timeout of 25000 ms exceeded"
+ },
+ {
+  "engine": "lp",
+  "name": "React 官网",
+  "url": "https://react.dev",
+  "loadMs": 2398,
+  "title": "React",
+  "textLen": 6656,
+  "links": 98,
+  "nodes": 1847,
+  "shot": "ok"
+ },
+ {
+  "engine": "lp",
+  "name": "亚马逊",
+  "url": "https://www.amazon.com",
+  "loadMs": 3726,
+  "title": "Amazon.com. Spend less. Smile more.",
+  "textLen": 3261,
+  "links": 127,
+  "nodes": 1219,
+  "shot": "ok"
+ },
+ {
+  "engine": "lp",
+  "name": "苹果中国",
+  "url": "https://www.apple.com.cn",
+  "loadMs": 1309,
+  "title": "Apple (中国大陆) - 官方网站",
+  "textLen": 3138,
+  "links": 270,
+  "nodes": 1434,
+  "shot": "ok"
+ },
+ {
+  "engine": "lp",
+  "name": "小米",
+  "url": "https://www.mi.com",
+  "loadMs": 908,
+  "title": "Xiaomi官方网站 | 以人为中心，构建“人车家全生态”",
+  "textLen": 817,
+  "links": 81,
+  "nodes": 1054,
+  "shot": "ok"
+ }
+]

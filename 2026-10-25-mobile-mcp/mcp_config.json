@@ -1,0 +1,1 @@
+{"mcpServers": {"mobile": {"command": "ssh", "args": ["-o", "ConnectTimeout=10", "gpu-server", "docker exec -i -e MOBILEMCP_DISABLE_TELEMETRY=1 -e ANDROID_HOME=/work -w /work mm-lab node /work/mm/node_modules/@mobilenext/mobile-mcp/lib/index.js"]}}}
