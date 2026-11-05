@@ -14,6 +14,7 @@
 | [2026-10-25-mobile-mcp](2026-10-25-mobile-mcp) | 让AI替你点手机：读清单还是看截图？1万星开源工具实测96次 | mobile-mcp：AI 读界面清单还是看截图操作手机 |
 | [2026-10-29-voxcpm2](2026-10-29-voxcpm2) | 14秒录音克隆声音？4万星开源配音VoxCPM2对比付费豆包 | VoxCPM2 / Qwen3-TTS / CosyVoice3 / 豆包 声音克隆 |
 | [2026-10-31-tts-round2](2026-10-31-tts-round2) | 观众点名的两款开源配音，念长段全翻车；数字写成汉字真管用 | Audio8-TTS、BreezyVoice 加入对比；数字写法；Nemotron 听写当裁判 |
+| [2026-11-05-anatomy](2026-11-05-anatomy) | 2万星爆款AI画图技能实测：6万单词的说明书，比得过一句话吗？ | anatomy 技能 vs 不装 vs 只加一句话，画技术概念插图 |
 
 ## 说明
 

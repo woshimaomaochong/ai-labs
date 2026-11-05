@@ -1,0 +1,101 @@
+{
+ "A2": {
+  "n": 6,
+  "cost_usd": 0.107,
+  "cost_fen": 75.9,
+  "secs": 57,
+  "tool_calls": 2.7,
+  "out_tokens": 6557,
+  "html_kb": 7.7,
+  "pages_with_errors": 0,
+  "svg_shapes": 3,
+  "phone_hscroll": 2,
+  "moves_idle": 0,
+  "judge_claude": {
+   "facts_pct": 74.17,
+   "facts_shown_by_motion": 2.42,
+   "看得懂": 3.58,
+   "像实物": 1.17,
+   "精致": 2.75,
+   "has_error": 0.42,
+   "best_votes": 2,
+   "rounds": 12
+  },
+  "judge_deepseek": {
+   "facts_pct": 83.33,
+   "facts_shown_by_motion": 3.33,
+   "看得懂": 4,
+   "像实物": 1.36,
+   "精致": 3.25,
+   "has_error": 0.33,
+   "best_votes": 3,
+   "rounds": 12
+  }
+ },
+ "B2": {
+  "n": 6,
+  "cost_usd": 0.72,
+  "cost_fen": 511.0,
+  "secs": 314,
+  "tool_calls": 18.7,
+  "out_tokens": 33903,
+  "html_kb": 169.8,
+  "pages_with_errors": 0,
+  "svg_shapes": 669,
+  "phone_hscroll": 0,
+  "moves_idle": 5,
+  "judge_claude": {
+   "facts_pct": 70.83,
+   "facts_shown_by_motion": 2.25,
+   "看得懂": 2.25,
+   "像实物": 3.25,
+   "精致": 3.33,
+   "has_error": 0.5,
+   "best_votes": 1,
+   "rounds": 12
+  },
+  "judge_deepseek": {
+   "facts_pct": 61.67,
+   "facts_shown_by_motion": 1.33,
+   "看得懂": 2.25,
+   "像实物": 3.33,
+   "精致": 3.08,
+   "has_error": 0.25,
+   "best_votes": 0,
+   "rounds": 12
+  }
+ },
+ "C": {
+  "n": 6,
+  "cost_usd": 0.929,
+  "cost_fen": 659.7,
+  "secs": 519,
+  "tool_calls": 10.5,
+  "out_tokens": 59435,
+  "html_kb": 33.0,
+  "pages_with_errors": 0,
+  "svg_shapes": 360,
+  "phone_hscroll": 0,
+  "moves_idle": 6,
+  "judge_claude": {
+   "facts_pct": 75.0,
+   "facts_shown_by_motion": 2.83,
+   "看得懂": 3.83,
+   "像实物": 4.58,
+   "精致": 4.17,
+   "has_error": 0.5,
+   "best_votes": 9,
+   "rounds": 12
+  },
+  "judge_deepseek": {
+   "facts_pct": 88.33,
+   "facts_shown_by_motion": 4.17,
+   "看得懂": 4.17,
+   "像实物": 5,
+   "精致": 4.75,
+   "has_error": 0.33,
+   "best_votes": 9,
+   "rounds": 12
+  }
+ }
+}
